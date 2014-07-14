@@ -4,6 +4,10 @@ This file is a manually maintained list of changes for each release. Feel free
 to add your changes here when sending pull requests. Also send corrections if
 you spot any mistakes.
 
+## HEAD
+
+* Add `enqueue` event to protocol and connection #381
+
 ## v2.4.2 (2014-08-03)
 
 * Fix incorrect sequence packet errors to be catchable #867
