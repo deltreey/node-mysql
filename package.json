@@ -13,7 +13,7 @@
   "repository": "felixge/node-mysql",
   "dependencies": {
     "bignumber.js": "1.4.0",
-    "readable-stream": "~1.1.13",
+    "readable-stream": "deltreey/readable-stream",
     "require-all": "0.0.8"
   },
   "devDependencies": {
